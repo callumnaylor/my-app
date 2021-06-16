@@ -14,14 +14,13 @@ const [isChecked, setIsChecked] = useState(false);
   const checkbox = isChecked ? light : dark;
   return (
     <div>
-      <button className="button_slide slide_left" onClick={toggleCheck}>Click me!! </button>
+      <button className="button-slide slide-left" onClick={toggleCheck}>Click me!! </button>
       <span><img className="main-body" alt={'svtp-Checkbox'} src={checkbox} /></span>
     </div>
   )
 }
 
 const Text = () => {
-
 
   return(
     <div className="title-box">
