@@ -37,9 +37,12 @@ function Header() {
     <header className="container">
       <div className="nav scroll-up scroll-down">
         <ul>
-          <li><a href="#about">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#about">Work</a></li> 
+          <li><a href="#main-body">Home</a></li>
+          <li><a href="">About</a></li>
+          <li>
+          <a href="#main-content">Work</a>.
+          </li> 
+          
         </ul>
       </div>
     </header>
