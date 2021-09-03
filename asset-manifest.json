@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e2537ca.chunk.css",
-    "main.js": "/static/js/main.4ccb1570.chunk.js",
-    "main.js.map": "/static/js/main.4ccb1570.chunk.js.map",
+    "main.css": "/static/css/main.9c8d1808.chunk.css",
+    "main.js": "/static/js/main.b1fdc62a.chunk.js",
+    "main.js.map": "/static/js/main.b1fdc62a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6b010e0c.js",
     "runtime-main.js.map": "/static/js/runtime-main.6b010e0c.js.map",
     "static/js/2.e828de34.chunk.js": "/static/js/2.e828de34.chunk.js",
     "static/js/2.e828de34.chunk.js.map": "/static/js/2.e828de34.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6e2537ca.chunk.css.map": "/static/css/main.6e2537ca.chunk.css.map",
+    "static/css/main.9c8d1808.chunk.css.map": "/static/css/main.9c8d1808.chunk.css.map",
     "static/js/2.e828de34.chunk.js.LICENSE.txt": "/static/js/2.e828de34.chunk.js.LICENSE.txt",
     "static/media/bytron.73b85aef.png": "/static/media/bytron.73b85aef.png",
     "static/media/etops.39107d86.jpg": "/static/media/etops.39107d86.jpg",
     "static/media/lightimage.af0e7d61.jpg": "/static/media/lightimage.af0e7d61.jpg",
     "static/media/nightImage.a474513d.jpg": "/static/media/nightImage.a474513d.jpg",
     "static/media/opsboard.1735007e.jpg": "/static/media/opsboard.1735007e.jpg",
+    "static/media/plane.ef5930a3.png": "/static/media/plane.ef5930a3.png",
     "static/media/react.382a8e79.png": "/static/media/react.382a8e79.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6b010e0c.js",
     "static/js/2.e828de34.chunk.js",
-    "static/css/main.6e2537ca.chunk.css",
-    "static/js/main.4ccb1570.chunk.js"
+    "static/css/main.9c8d1808.chunk.css",
+    "static/js/main.b1fdc62a.chunk.js"
   ]
 }
